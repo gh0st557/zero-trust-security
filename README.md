@@ -100,4 +100,4 @@ MIT – używaj swobodnie, ale nie ufaj nawet swojemu kodowi 😉
 
 🛰️ Jakub / Ghost Dev  
 🌐 ZeroTrust Engineering | Military Systems  
-📫 jakub@protonmail.com
+📫 globalsign@mail.com
