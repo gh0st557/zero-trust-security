@@ -1,0 +1,6 @@
+ztna_policy:
+  allowed_geo: ['PL', 'DE']
+  trust_threshold: 70
+  device_integrity_required: true
+  session_expiry_minutes: 30
+  token_algorithm: 'HS512'
